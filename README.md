@@ -1,7 +1,7 @@
 # LightsCameraAction
 
 *Lights Camera Action* (LCA) is a camera controller mod for popular VR Game, Gorilla Tag. 
-[![Mod Showcase Link](https://img.youtube.com/vi/geyMo9pVSEE/0.jpg)](https://youtu.be/w7dvoyr86Ag)
+[![Mod Showcase Link](https://img.youtube.com/vi/CmS4ujiInqg/0.jpg)](https://youtu.be/CmS4ujiInqg)
 
 ## Usage
 To open the LCA mode selector, press the analog stick on your left controller. From here you can select from four camera modes:
