@@ -16,7 +16,7 @@ namespace LightsCameraAction.Modules
         private Camera selfieCamera;
 
         public const string localRigPath =
-            "Global/Local VRRig/Local Gorilla Player";
+            "Player Objects/Local VRRig/Local Gorilla Player";
         public const string palmPath =
             "/rig/body/shoulder.{0}/upper_arm.{0}/forearm.{0}/hand.{0}/palm.01.{0}";
 
