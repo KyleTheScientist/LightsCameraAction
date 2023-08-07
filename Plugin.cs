@@ -25,7 +25,7 @@ namespace LightsCameraAction
     public class Plugin : BaseUnityPlugin
     {
         public static Plugin Instance;
-        public static Log log;
+        public static Log log; // The BaseUnityPlugin provides a logger that will have better formatting then this one. :nerd:
 
         public bool GameInitialized { get; private set; }
         public bool Initialized { get; private set; }
@@ -183,6 +183,5 @@ namespace LightsCameraAction
                 HideMenu();
             }
         }
-
     }
 }
