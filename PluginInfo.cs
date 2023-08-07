@@ -9,6 +9,6 @@ namespace LightsCameraAction
     {
         public const string GUID = "com.kylethescientist.gorillatag.lightscameraaction";
         public const string Name = "LightsCameraAction";
-        public const string Version = "0.0.10";
+        public const string Version = "0.0.11";
     }
 }
